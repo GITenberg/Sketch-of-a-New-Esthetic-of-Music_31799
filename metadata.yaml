@@ -29,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26666
     wikipedia: http://en.wikipedia.org/wiki/Ferruccio_Busoni
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31799#Sketch-of-a-New-Esthetic-of-Music
 gutenberg_bookshelf: Music
 gutenberg_issued: '2010-03-27'
 gutenberg_type: Text
